@@ -6,7 +6,8 @@ I'm a second year  [Genomic Sciences](https://www.lcg.unam.mx/)  undergrad at  [
 I am currently collaborating on research projects focused on:
 
 **Systems biology** --> Creating a minimal mathematical model to identify the regulatory system in pulmonary fibrosis.
-**Molecular microbiology** -->Where I am focused on the search for novel antimicrobial molecules isolated from Cozumel mangrove soil.
+
+**Molecular Microbiology** -->Where I am focused on the search for novel antimicrobial molecules isolated from Cozumel mangrove soil.
 
 My academic and research focus is on understanding the genomic and molecular mechanisms that regulate responses in regulatory systems.
 
